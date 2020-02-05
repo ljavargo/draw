@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-05T10:29:41.331Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="S53T-DpTnzZRAVcfLHNM" version="12.6.5" type="github">
+<mxfile host="www.draw.io" modified="2020-02-05T10:38:29.347Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="bTIuAZrqRN0ZdMGHAlHb" version="12.6.5" type="github">
   <diagram id="K75382sOO1oxDrn6VG71" name="Page-1">
     <mxGraphModel dx="1019" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -92,28 +92,31 @@
           <mxGeometry x="200" y="300" width="120" height="45" as="geometry"/>
         </mxCell>
         <mxCell id="JL7KiCigLZ5eaNBCJExM-35" value="数据上报服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="340" y="300" width="120" height="45" as="geometry"/>
+          <mxGeometry x="790" y="300" width="120" height="45" as="geometry"/>
         </mxCell>
         <mxCell id="JL7KiCigLZ5eaNBCJExM-36" value="通用ab test" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="485" y="300" width="120" height="45" as="geometry"/>
+          <mxGeometry x="640" y="360" width="120" height="45" as="geometry"/>
         </mxCell>
         <mxCell id="JL7KiCigLZ5eaNBCJExM-37" value="内容中心" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="630" y="300" width="120" height="45" as="geometry"/>
+          <mxGeometry x="340" y="300" width="120" height="45" as="geometry"/>
         </mxCell>
         <mxCell id="JL7KiCigLZ5eaNBCJExM-38" value="评论中心" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="770" y="300" width="120" height="45" as="geometry"/>
+          <mxGeometry x="490" y="300" width="120" height="45" as="geometry"/>
         </mxCell>
         <mxCell id="JL7KiCigLZ5eaNBCJExM-39" value="语音识别" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="360" width="120" height="45" as="geometry"/>
         </mxCell>
-        <mxCell id="JL7KiCigLZ5eaNBCJExM-40" value="推荐" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JL7KiCigLZ5eaNBCJExM-40" value="推荐服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="360" width="120" height="45" as="geometry"/>
         </mxCell>
         <mxCell id="JL7KiCigLZ5eaNBCJExM-41" value="鉴黄服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="485" y="360" width="120" height="45" as="geometry"/>
+          <mxGeometry x="490" y="360" width="120" height="45" as="geometry"/>
         </mxCell>
         <mxCell id="JL7KiCigLZ5eaNBCJExM-42" value="支付中心" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="630" y="360" width="120" height="45" as="geometry"/>
+          <mxGeometry x="640" y="300" width="120" height="45" as="geometry"/>
+        </mxCell>
+        <mxCell id="JL7KiCigLZ5eaNBCJExM-43" value="多媒体文件处理服务（视频，语音，图片）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="790" y="360" width="120" height="45" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
